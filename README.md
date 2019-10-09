@@ -15,3 +15,5 @@
    - 특별 메시지 : 조비서의 응원(조비서가 청년을 응원하는 따뜻한 메시지를 전달)
 5. 사용 라이브러리
    - urllib.request, flask, openpyxl, numpy, ibm_watson, ibm_cloud_sdk_core.authenticators, requests, os 
+6. runtime
+   - python-3.7.4
