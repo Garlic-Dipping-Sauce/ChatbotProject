@@ -9,4 +9,9 @@
    - 차가운 도시 남자지만 청년에게는 따뜻한 조(助:돕다)비서
    - <도깨비>의 김비서, <내부자들>의 조상무를 연기한 조우진
    - 청년수당에 대한 답변은 따뜻한 김비서, 인식하지 못 한 질문은 냉철한 김비서
-
+4. 시나리오
+![image](https://user-images.githubusercontent.com/54702684/66452730-95c4a100-ea9c-11e9-889b-263560ed83c6.png)
+   - 흐름 : 인사 및 청년수당 안내 → 자격요건 → 신청방법 → 선정기준 → 사용방법 → 혜택종료 → 마무리
+   - 특별 메시지 : 조비서의 응원(조비서가 청년을 응원하는 따뜻한 메시지를 전달)
+5. 사용 라이브러리
+   - urllib.request, flask, openpyxl, numpy, ibm_watson, ibm_cloud_sdk_core.authenticators, requests, os 
